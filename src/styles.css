@@ -1,1 +1,34 @@
-/* You can add global styles to this file, and also import other style files */
+.alert{
+    display: none;
+   }
+
+   .custom-table{
+    background-color: blanchedalmond;
+    border: solid 2px black;
+    border-collapse: collapse;
+   }
+
+   .custom-table td,tr,th{
+    border: solid 2px black;
+   }
+
+   .custom-table button{
+    background-color: rgb(162, 12, 12);
+    color: white;
+   }
+
+   body{
+    background-image: url(/assets/images/fotocover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   }
+  
+
+   .jumbotron img{
+    width: 150px;
+   }
+   
+   .jumbotron {
+    font-weight: bold;
+   }
